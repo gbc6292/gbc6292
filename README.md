@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Giovanni Barreto! :stars:</h1>
 
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/gbc23/)](https://linkedin.com/in/brennankbrown/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/giovabarreto/)](https://linkedin.com/in/giovabarreto/)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:infogiosocial@gmail.com)](mailto:infogiosocial@gmail.com)
 
 
